@@ -16,15 +16,15 @@ Follow these steps to set up and run the project on your local machine:
 
 1. **Clone the Repository**: 
    ```shell
-   git clone https://github.com/YourUsername/YourBankingSystemRepo.git
+   git clone https://github.com/dinesh1615/CODTECH-Task2.git
 2. **Compile the Java Code**:
 
    ```shell
-   javac *.java
+   javac Calculator.java
 3. **Run the Application**:
 
    ```shell
-   java BankingApp
+   java Calculator
 
 # 📂 Project Structure
 - 'src/': Contains the Java source code files.
