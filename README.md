@@ -46,7 +46,8 @@ Follow these steps to set up and run the project on your local machine:
 - ![Screenshot from 2024-06-10 13-06-16](https://github.com/dinesh1615/CODTECH-Task2/assets/110489987/68f64667-b458-4df6-87f7-d7f14c3834f2)
 
 - screenshot 2
-- 
+- ![Screenshot from 2024-06-10 13-06-40](https://github.com/dinesh1615/CODTECH-Task2/assets/110489987/dbde1c22-1456-406e-afcc-ebb09e0c7b53)
+
 
 
 # 🤝 Contributing
