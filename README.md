@@ -28,25 +28,22 @@ Follow these steps to set up and run the project on your local machine:
 
 # 📂 Project Structure
 - 'src/': Contains the Java source code files.
-- 'database/': Includes SQL scripts for database setup.
 - 'screenshots/': Screenshots of the application in action.
 
 # 📦 Features
-- User Registration & Login
-- Account Creation
-- Debit and Credit Transactions
-- Money Transfer Between Accounts
-- Balance Inquiry
-- Robust Security Measures
+- Addition
+- Subtraction
+- Multiplication
+- Division
 
 # 🌐 Technologies Used
 - Java
-- JDBC (Java Database Connectivity)
-- MySQL (or your preferred database system)
+- AWT (Abstract Window ToolKit)
+- SWING
 
 # 📸 Screenshots
 - screenshot 1
-- ![Screenshot 1](https://github.com/dinesh1615/CODTECH-Task1/assets/110489987/68ce433f-8421-45ff-9c04-c6dbc763e1a1)
+- 
 - 
 - screenshot 2
 - ![Screenshot 2](https://github.com/dinesh1615/CODTECH-Task1/assets/110489987/5bb009df-f0b0-4e73-afd5-e9f1110c85de)
